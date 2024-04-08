@@ -26,9 +26,9 @@ Shared Responsibility Model
 * The shared responsibility model outlines the responsibilities of the customer and the cloud vendor
 * The cloud vendor is responsible for the security of the cloud but the user is responsible for security in the cloud such as their applications or user account details or whom can access their data stored on cloud infrastructure
 * Cloud vendor is responsible for managing physical access to computing resources
-* Hosts
-* Network
-* Datacentres
+   * Hosts
+   * Network
+   * Datacentres
 * The customer is responsible for:
     * Information and data
     * Configuration 
